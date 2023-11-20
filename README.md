@@ -1,6 +1,6 @@
 # Livet
 
-This is a live music collaboration app build with web standards and wasm. Still in early development...
+This is a live music collaboration app built with web standards and wasm. Still in early development...
 
 ## Development requirements
 
