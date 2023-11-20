@@ -1,0 +1,8 @@
+[watch]
+# Paths to ignore.
+watch = ["src", "colors.scss", "index.html","package.json"]
+
+[[hooks]]
+stage = "pre_build"
+command = "npm"
+command_arguments = ["install"]

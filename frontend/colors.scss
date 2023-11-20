@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+// Update Bulma's global variables here before importing bulma
+@import "node_modules/bulma/bulma.sass";
+
+// aux-widgets is a collection of nice knobs, faders, etc
+@import "https://unpkg.com/@deutschesoft/aux-widgets@1.2.10/styles/default.css";
+
+// Adds a cute lite switch component
+@import "https://unpkg.com/bulma-switch";
+
